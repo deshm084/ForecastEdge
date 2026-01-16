@@ -1,0 +1,29 @@
+Importing plotly failed. Interactive plots will not work.
+2026-01-15 19:17:51,118 - INFO - Loading data...
+2026-01-15 19:17:51,129 - INFO - Data Loaded. Rows: 3740 | Categories: 5
+2026-01-15 19:17:51,131 - INFO - Starting parallel training for 5 categories...
+Importing plotly failed. Interactive plots will not work.
+Importing plotly failed. Interactive plots will not work.
+Importing plotly failed. Interactive plots will not work.
+Importing plotly failed. Interactive plots will not work.
+Importing plotly failed. Interactive plots will not work.
+19:17:53 - cmdstanpy - INFO - Chain [1] start processing
+19:17:53 - cmdstanpy - INFO - Chain [1] start processing
+19:17:53 - cmdstanpy - INFO - Chain [1] start processing
+19:17:53 - cmdstanpy - INFO - Chain [1] start processing
+19:17:53 - cmdstanpy - INFO - Chain [1] start processing
+19:17:53 - cmdstanpy - INFO - Chain [1] done processing
+19:17:53 - cmdstanpy - INFO - Chain [1] done processing
+19:17:53 - cmdstanpy - INFO - Chain [1] done processing
+19:17:53 - cmdstanpy - INFO - Chain [1] done processing
+19:17:53 - cmdstanpy - INFO - Chain [1] done processing
+2026-01-15 19:17:53,657 - INFO - Training complete.
+2026-01-15 19:17:53,661 - INFO - Global WMAPE: 7.8911%
+
+Top 5 Best Performing Categories (Lowest MAPE):
+       Category      MAPE
+0    AUTOMOTIVE  0.071013
+1     BEVERAGES  0.074262
+4       PRODUCE  0.082256
+2  BREAD/BAKERY  0.082982
+3     GROCERY_I  0.092247

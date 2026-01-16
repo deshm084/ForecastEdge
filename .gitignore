@@ -11,3 +11,4 @@ __pycache__/
 
 # OS - Ignore system files
 .DS_Store
+store-sales-time-series-forecasting/
